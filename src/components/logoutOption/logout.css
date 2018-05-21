@@ -1,0 +1,15 @@
+.logout-container{
+    background-color: rgb(14, 21, 26)
+}
+.logout-button{
+    padding: 15px 32px;
+
+}
+button{
+    color: rgb(1, 77, 139);
+    background-color: aliceblue;
+    font-size: 15px;
+    padding:5px;
+    border-radius: 4px
+    
+}

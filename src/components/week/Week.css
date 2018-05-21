@@ -1,0 +1,51 @@
+body{
+
+    background-color: rgb(51, 74, 92)
+}
+#username{
+    background-color: azure;
+    width:35%;
+    font-size: 20px;
+    padding:5px;
+    border-style: solid;
+    border-color: rgb(14, 21, 26);
+    border-width: 5px;
+    border-radius:5px;
+    
+}
+.container{
+   padding: 50px;
+   padding-left: 85px;
+   padding-right: 85px;
+   padding-top: 80px;
+   
+   
+}
+
+.days{
+    font-size: 20px;
+    border-style:solid;
+    border-width: 10px;
+    color: rgb(11, 88, 133);
+    
+    
+    
+}
+
+.sun,.mon,.tue,.wed,.thu,.fri,.sat{
+    color: rgb(11, 88, 133);
+    border-style:solid;
+    border-width: 5px;
+    background-color: rgb(193, 239, 255);
+    padding-bottom: 15px
+    
+}
+
+.detailbox{
+    margin: auto;
+    width: 55%;
+    border-style:solid;
+    border-color: rgb(7, 30, 44);
+    background-color:rgb(226, 242, 245);
+    border-radius: 5px
+}

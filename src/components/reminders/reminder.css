@@ -1,0 +1,27 @@
+.reminder-container{
+    padding-top:10px;
+    padding-right:10px;
+}
+.reminder-title{
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    float: right;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: rgb(230, 65, 65);
+    color:white
+    
+
+}
+
+.previous_weeks{
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    float: right;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: rgb(230, 65, 65);
+    color:white
+
+    
+}
