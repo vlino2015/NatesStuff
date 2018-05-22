@@ -11,8 +11,14 @@ const events = models.events.build({
     userid: 1
 })
 
+
+// save the post
+events.save().then(function(newPost){
+  console.log(newPost)
+}) 
+
 models.sequelize.sync().then(()=>{
-  app.listen(3001, function(){
+  app.listen(3002, function(){
     console.log('listening on 3001')
 })  
 })

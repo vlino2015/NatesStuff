@@ -8,9 +8,9 @@ module.exports = (sequelize, DataTypes) => {
       lastname: DataTypes.STRING
     }, {timestamps: false});
 
-    user.associate = function(models){
+    // user.associate = function(models){
 
-    }
+    // }
 
     return user;
 }

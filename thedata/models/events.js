@@ -8,9 +8,7 @@ module.exports = (sequelize, DataTypes)=>{
 
     }, {timestamps: false});
 
-    events.associate = function(models){
 
-    }
 
     return events;
 }
